@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">CoronaApps</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="health_status">Health Status</string>
+    <string name="preventions">Preventions</string>
+    <string name="symptoms">Symptoms</string>
+    <string name="popular_questions">Popular Questions</string>
+    <string name="settings">Settings</string>
+    <string name="notifications">Notifications</string>
+    <string name="dark_mode">Dark mode</string>
+    <string name="coronavirus_global">Coronavirus Global</string>
+    <string name="total_cases">Total Cases</string>
+    <string name="latest_updates">Latest Updates</string>
+    <string name="all_state_ut_stats">All State/UT Stats</string>
+    <string name="today_statistics">Today\'s Statistics</string>
+    <string name="statistics">Statistics</string>
+    <string name="confirmed">Confirmed</string>
+    <string name="active">Active</string>
+    <string name="recovered">Recovered</string>
+    <string name="deaths">Deaths</string>
+    <string name="state_ut">State/UT</string>
+    <string name="what_should_we_do">What Should We Do</string>
+
+    <string name="error_network" translatable="false">A network error has occurred.Please try again.</string>
+    <string name="error_server" translatable="false">A server error has occurred.Please try again.</string>
+    <string name="error_unknown" translatable="false">An unknown error has occurred.Please try again.</string>
+    <string name="error_auth" translatable="false">You do not have permissions to access the service.</string>
+
+
+    <string name="pref_theme_value_light" translatable="false">light</string>
+    <string name="pref_theme_value_dark" translatable="false">dark</string>
+    <string name="last_updated">Last updated:</string>
+    <string name="new_">New:</string>
+    <string name="are_you_feeling_sick">Are you feeling sick?</string>
+    <string name="if_you_feel_sick_with_any_of_covid_19_symptoms_please_call_or_sms_us_immediately_for_help">If you feel sick with any of covid-19 symptoms please call or SMS us immediately for help.</string>
+    <string name="call_now">Call Now</string>
+    <string name="send_message">Message</string>
+    <string name="save_the_human_race">Save The Human Race 🏄</string>
+    <string name="contagion">Contagions</string>
+    <string name="air_transmission">Air Transmission</string>
+    <string name="human_contacts">Human Contacts</string>
+    <string name="containted_object">Containted Object</string>
+    <string name="helpline_number">Helpline Number +91–11-23978046</string>
+    <string name="latest_update">Latest Update</string>
+    <string name="notification_message">new cases reported, tap the notification for more information.</string>
+    <string name="covid_19">Covid-19</string>
+    <string name="tracker_app">Tracker App</string>
+</resources>
